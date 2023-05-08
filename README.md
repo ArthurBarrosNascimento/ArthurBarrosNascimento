@@ -33,4 +33,6 @@ Passionate about technology and ready to leave a mark on the world
 
 </div>
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBarrosNascimento)](https://github.com/anuraghazra/github-readme-stats)
