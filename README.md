@@ -37,6 +37,11 @@ Passionate about technology and ready to leave a mark on the world
   <img align="center" alt="Chai.Js" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/>
 
   <img align="center" alt="Sinon.Js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>
+
+  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+  <img align="center" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+
 </div>
 
 ## Tools I use
@@ -62,4 +67,4 @@ Passionate about technology and ready to leave a mark on the world
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarrosnascimento)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarrosnascimento&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
