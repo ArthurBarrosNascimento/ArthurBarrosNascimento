@@ -8,12 +8,11 @@ Passionate about technology and ready to leave a mark on the world
 
 <div style="display: inline_block"> 
 
-[![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbarrosnascimento)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbarrosnascimento)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarrosnascimento&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
+</div>
 
 
 ## Technologies I use in my day to day
@@ -72,5 +71,3 @@ Passionate about technology and ready to leave a mark on the world
 
   <img align="center" alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/>
 </div>
-
-<br>
